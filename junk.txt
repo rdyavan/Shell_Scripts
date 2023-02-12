@@ -1,0 +1,39 @@
+ear
+ 1507  l
+ 1508  cd
+ 1509  cd snap/
+ 1510  l
+ 1511  cd current/
+ 1512  ls -lrt
+ 1513  cd
+ 1514  clear
+ 1515  ls -lrt
+ 1516  cd socket/
+ 1517  l
+ 1518  ls -lrt
+ 1519  clear
+ 1520  cd
+ 1521  exit
+ 1522  cd
+ 1523  cd /home/rakesh/scripts/
+ 1524  l
+ 1525  ls -lrt
+ 1526  clear
+ 1527  l *.txt
+ 1528  sed -n '7p' answers.txt
+ 1529  sed -n '1p' answers.txt
+ 1530  sed -n 'p' answers.txt
+ 1531  sed -n '1-3p' answers.txt
+ 1532  sed '3d' answers.txt
+ 1533  l
+ 1534  history
+ 1535  junk.txt
+ 1536  vi junk.txt
+ 1537  sed -n '3p' junk.txt
+ 1538  sed -n '10,$p' junk.txt
+ 1539  sed -i '10,$d' junk.txt
+ 1540  sed -n '10,$p' junk.txt
+ 1541  view junk.txt
+ 1542  sed -i.back '5,$d' junk.txt
+ 1543  l *.txt*
+ 1544  view answers.txt

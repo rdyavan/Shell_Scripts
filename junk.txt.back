@@ -1,0 +1,9 @@
+ 1146  chmod +x passing_parameters.sh
+ 1147  ./passing_parameters.sh
+ 1148  vi passing_parameters.sh
+ 1149  ./passing_parameters.sh
+ 1150  vi passing_parameters.sh
+ 1151  ./passing_parameters.sh
+ 1152  vi passing_parameters.sh
+ 1153  ./passing_parameters.sh
+ 1154  vi passing_parameters.sh
