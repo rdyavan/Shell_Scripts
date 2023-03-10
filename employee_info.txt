@@ -1,0 +1,5 @@
+S_NO    Name           Salary
+1	Narendra	1021500
+2	Raju		2154525
+3 	John 		2541500
+4 	Clinton		2500036
